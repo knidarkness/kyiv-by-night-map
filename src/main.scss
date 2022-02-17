@@ -1,0 +1,42 @@
+#map { height: calc(100vh); }
+
+#tetstet {
+  color: rosybrown;
+}
+
+.legend-row {
+  display: flex;
+  align-items: center;
+
+  .KL {
+    background-color: #2A81CB;
+  }
+
+  .KD {
+    background-color: #CB2B3E;
+  }
+
+  .Thinbloods {
+    background-color: #CAC428;
+  }
+
+  .Sabbat {
+    background-color: #3D3D3D;
+  }
+
+  .unknown {
+    background-color: #7B7B7B;
+  }
+}
+
+.legend-block {
+  background-color: white;
+  padding: 10px;
+  border-radius: 2px;
+  i {
+    display: inline-block;
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+  }
+}

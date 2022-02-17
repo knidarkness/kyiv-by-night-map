@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "11 Дзеркал - домен Анабель Ів",
+        "allegiance": "K.D."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51028847694397,
+          50.446737900229074
+        ]
+      },
+      "id": "9408b75b-191f-4f11-8737-0081677b2ee7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Київська Опера - Елізіум Князя Дмітрія",
+        "allegiance": "K.D."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51241010427475,
+          50.44665079123336
+        ]
+      },
+      "id": "6d83502f-29ae-42bd-93f4-92bcaaf2a70c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Кінотеатр Жовтень",
+        "allegiance": "K.D.",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.51012,
+          50.468356
+        ]
+      },
+      "id": "4cb4c372-b6e9-440c-8b2b-4101973e65eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Кирилівська церква. Отець Афанасій.",
+        "allegiance": "K.D.",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.472093,
+          50.483514
+        ]
+      },
+      "id": "9ae311a6-e55a-4e34-87e9-93d6b7ce123c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Бао",
+        "allegiance": "K.D.",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.532944,
+          50.437058
+        ]
+      },
+      "id": "0ed255a2-321c-4adb-9be9-66741e7b7b8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Баржа с дискотекой #KyivDubstepParties, Int",
+        "allegiance": "K.D.",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.525992,
+          50.460815
+        ]
+      },
+      "id": "cf9e8f02-0ed9-46b4-9752-a52e9a3fee41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Мама Гочі. Ресторан гуля Тео - Лівана Нігосяна",
+        "allegiance": "K.D.",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.525529,
+          50.448226
+        ]
+      },
+      "id": "266bd8aa-5f69-4727-a419-9e677cc6da32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Портал 11.",
+        "allegiance": "K.D.",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.523219,
+          50.454795
+        ]
+      },
+      "id": "20db539e-f618-4785-a8f7-ae21435ad141"
+    }
+  ]
+}

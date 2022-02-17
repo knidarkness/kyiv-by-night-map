@@ -1,0 +1,26 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./build.js",
+    "serve": "serve .",
+    "start": "dev=1 npm run serve & npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/leaflet": "^1.7.9",
+    "esbuild": "^0.14.21",
+    "esbuild-sass-plugin": "^2.2.3",
+    "eslint": "^8.9.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "leaflet": "^1.7.1",
+    "normalize.css": "^8.0.1"
+  }
+}

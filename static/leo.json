@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+          "shape": "Marker",
+          "name": "Парковка Лео",
+          "allegiance": "K.L.",
+          "category": "default"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.653947, 50.498616]
+      },
+      "id": "f17093da-bdb5-40f9-8984-7a4a3e4d0089"
+  }, {
+      "type": "Feature",
+      "properties": {
+          "shape": "Marker",
+          "name": "'Green Garden', домен Арея",
+          "allegiance": "K.L.",
+          "category": "default"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.59838, 50.484705]
+      },
+      "id": "838c0b60-cfd4-47d7-881f-fb090e9d270f"
+  }, {
+      "type": "Feature",
+      "properties": {
+          "shape": "Marker",
+          "name": "Кроляча Нора. Капелюшник. Лео.",
+          "allegiance": "K.L.",
+          "category": "default"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.499943, 50.440653]
+      },
+      "id": "f27298bd-0af5-449e-9047-4576a23d175e"
+  }, {
+      "type": "Feature",
+      "properties": {
+          "shape": "Marker",
+          "name": "БЦ Лівобережний, 12 поверх. Місце, яке Лео використовує дял допитів, потенціально один з його сховків.",
+          "allegiance": "K.L.",
+          "category": "default"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.597929, 50.451348]
+      },
+      "id": "7e3bdeac-f9f2-4c74-9fea-9b45f12a93f4"
+  }, {
+      "type": "Feature",
+      "properties": {
+          "shape": "Marker",
+          "name": "Арена Сіті. Домен Лео",
+          "allegiance": "K.L.",
+          "category": "default"
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.520594, 50.441557]
+      },
+      "id": "c0d6ecf1-d1e4-47aa-94c8-b0a631d45932"
+  }, {
+      "type": "Feature",
+      "properties": {
+          "shape": "Marker",
+          "name": "Оксфорд Медікал. Люди Лео, що займаються викраденнями і зникненнями людей / Шабашем.",
+          "category": "default",
+          "allegiance":"K.L."
+      },
+      "geometry": {
+          "type": "Point",
+          "coordinates": [30.611909, 50.424439]
+      },
+      "id": "4f82419c-e2f5-4def-ae28-85b05b4da842"
+  }]
+}

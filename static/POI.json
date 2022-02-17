@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Бар Сундук. В радиусе 500-900 метров от него - логово Носов.",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.522169, 50.453118]
+        },
+        "id": "9168d4d4-2d01-44bd-b8d9-eee0129d8902"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Polygon",
+            "name": "Бар Сундук. В радиусе 500-900 метров от него - логово Носов.",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [30.523478, 50.445993],
+                    [30.527081, 50.446157],
+                    [30.532914, 50.448316],
+                    [30.538747, 50.451761],
+                    [30.534972, 50.454358],
+                    [30.528968, 50.456709],
+                    [30.526566, 50.460098],
+                    [30.52262, 50.46346],
+                    [30.51134, 50.46264],
+                    [30.504564, 50.459059],
+                    [30.506022, 50.451952],
+                    [30.513399, 50.447196],
+                    [30.523478, 50.445993]
+                ]
+            ]
+        },
+        "id": "7ef2f2df-d85b-4604-be2d-3f60062f298d"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Crazy Hohols MFC. Байкерский клуб из которого Крокодил...",
+            "category": "default",
+            "allegiance": "unknown"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.481708, 50.528113]
+        },
+        "id": "d6db3ff7-788a-460f-b6cf-2d1af6af5988"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Гімназія східних мов. Місце пожежі влаштованої an11ry4. Одна з вершин пентаграми.",
+            "category": "default",
+            "allegiance": "unknown"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.36547, 50.453144]
+        },
+        "id": "1f212b30-f65a-470d-9350-1f63ee7176de"
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Гідропарк. Центр пентаграми. По словам отця Афанасія - єретики.",
+            "category": "default",
+            "allegiance": "unknown"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.579026, 50.440004]
+        },
+        "id": "b2c73d09-cbdb-47e8-bf9c-f441cdb9e636"
+    }]
+}

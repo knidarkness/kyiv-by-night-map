@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Будинок Андрія Попова. Тут проходили вечірки полукровок.",
+        "allegiance": "Thinbloods",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.586261,
+          50.296325
+        ]
+      },
+      "id": "7e1ee97b-1523-4d39-9b2c-eba2dce75aa2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Marker",
+        "name": "Клуб Шутерс. Тут тусив Костя з Альбертом і 'друзями'",
+        "allegiance": "Thinbloods",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.544522,
+          50.437229
+        ]
+      },
+      "id": "5b5b3cac-b75a-42cd-a19a-73b999791345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "shape": "Polygon",
+        "name": "Будинок депутата А.Попова",
+        "allegiance": "Thinbloods",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.589971,
+              50.294583
+            ],
+            [
+              30.588405,
+              50.297134
+            ],
+            [
+              30.58654,
+              50.299588
+            ],
+            [
+              30.581607,
+              50.298094
+            ],
+            [
+              30.583559,
+              50.295475
+            ],
+            [
+              30.586711,
+              50.2935
+            ],
+            [
+              30.589971,
+              50.294583
+            ]
+          ]
+        ]
+      },
+      "id": "90520acd-6e85-40f7-a5eb-97660c3043e0"
+    }
+  ]
+}
