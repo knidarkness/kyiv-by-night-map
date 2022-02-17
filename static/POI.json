@@ -66,8 +66,7 @@
             "coordinates": [30.36547, 50.453144]
         },
         "id": "1f212b30-f65a-470d-9350-1f63ee7176de"
-    },
-    {
+    }, {
         "type": "Feature",
         "properties": {
             "shape": "Marker",
@@ -80,5 +79,31 @@
             "coordinates": [30.579026, 50.440004]
         },
         "id": "b2c73d09-cbdb-47e8-bf9c-f441cdb9e636"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Будинок Маркіяна. Квартира 68. Рядом жил Иван Кононенко (кв.67)",
+            "category": "default",
+            "allegiance": "unknown"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.530686, 50.41751]
+        },
+        "id": "6c81bf4e-df21-400d-a2f2-01d095b729f6"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Георгій Олександрович. Щоб знайти його - питати Ваню Петрова.",
+            "category": "default",
+            "allegiance":"K.D."
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [30.58802, 50.447488]
+        },
+        "id": "84108be6-f3c8-49aa-a272-a2c12f40c009"
     }]
 }
