@@ -29028,13 +29028,13 @@
     });
   }
   async function downloadGeoJSON() {
-    const index = await (await fetch("/static/index.json")).json();
+    const index = await (await fetch(window.location.href + "/static/index.json")).json();
     const kyivData = {
       "type": "FeatureCollection",
       "features": []
     };
     for (const file of index.filenames) {
-      const data = await (await fetch(`/static/${file}`)).json();
+      const data = await (await fetch(`${window.location.href}/static/${file}`)).json();
       kyivData.features = [
         ...kyivData.features,
         ...data.features
